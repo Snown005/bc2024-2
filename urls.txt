@@ -1,2 +1,2 @@
-http://backend.cours#Snown005
+http://backend.course#Snown005
 http://backend.course?name="Довгань Назарій"&github_name=Snown005&group="ФЕІ-25с"&subgroup="Підгрупа 2"
